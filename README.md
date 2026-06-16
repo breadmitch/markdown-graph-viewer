@@ -2,7 +2,6 @@
 
 A standalone local GUI that visualizes relationships between ordinary Markdown/text files.
 
-It is **not an Obsidian plugin**. It does **not** require Obsidian. It has **nothing LinkedIn-specific** in it. It does **not** know about scrapers, profiles, companies, schools, or social-media data.
 
 It simply opens a folder, scans files, and draws a graph from links and tags.
 
